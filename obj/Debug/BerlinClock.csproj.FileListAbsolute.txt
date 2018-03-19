@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\bin\Debug\BerlinClock.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\obj\Debug\BerlinClock.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\obj\Debug\BerlinClock.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\obj\Debug\BerlinClock.csproj.CopyComplete
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\obj\Debug\BerlinClock.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\obj\Debug\BerlinClock.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\bin\Debug\System.ValueTuple.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\MyTestProjects\DotNetBerlinClock-master\bin\Debug\Newtonsoft.Json.xml
